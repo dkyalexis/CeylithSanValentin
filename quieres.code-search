@@ -1,0 +1,7 @@
+# Query: quieres
+
+2 resultados - 1 archivo
+
+src/App.jsx:
+   92:             <h1 className="text-white font-bold text-5xl text-center">¿Cuieres ser mi San Valentin?</h1>
+  114:                 <span hidden>{document.title = Object.keys(randomValor).length === 0 ? "¿Quieres ser mi San Valentin?" : randomValor.description}</span>
